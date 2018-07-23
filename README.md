@@ -10,4 +10,4 @@ Train conductors and train enthusiast.
 # Where can I get it?
 Right here!
 
-![Infographic](https://imgur.com/a/GCXyoPP)
+![Infographic](https://github.com/LukeAWeaver/Multi-threading-Train-Simulation/blob/master/output.png)
