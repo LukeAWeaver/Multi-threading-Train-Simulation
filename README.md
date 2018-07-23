@@ -8,6 +8,6 @@ The program is given N amount of trains and M amount of stations in a text file;
 Train conductors and train enthusiast. 
 
 # Where can I get it?
-Right here! (may need to see I/O examples)
+Right here! (may need to zoom in to see I/O examples)
 
 ![Infographic](https://github.com/LukeAWeaver/Multi-threading-Train-Simulation/blob/master/output.png)
