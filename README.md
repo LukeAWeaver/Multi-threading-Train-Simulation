@@ -10,4 +10,4 @@ Train conductors and train enthusiast.
 # Where can I get it?
 Right here!
 
-![Infographic](https://raw.githubusercontent.com/LukeAWeaver/Crossword-Puzzle-Solver/master/infographic.png)
+![Infographic](https://imgur.com/a/GCXyoPP)
